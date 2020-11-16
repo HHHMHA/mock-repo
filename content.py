@@ -1,1 +1,1 @@
-print("nsabd")
+print("ginjo")
