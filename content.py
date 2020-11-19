@@ -1,1 +1,1 @@
-print("sinxe")
+print("eggja")
