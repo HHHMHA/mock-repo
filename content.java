@@ -1,5 +1,5 @@
-public class Cyameb {
+public class Cbgfht {
     public static void main() {
-        System.out.println("unguw");
+        System.out.println("mxcuv");
     }
 }
