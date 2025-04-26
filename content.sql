@@ -6,3 +6,4 @@ SELECT * from aitlb;
 SELECT * from hmwrf;
 SELECT * from axalw;
 SELECT * from pldnt;
+SELECT * from fuskh;
