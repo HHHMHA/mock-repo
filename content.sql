@@ -9,3 +9,4 @@ SELECT * from pldnt;
 SELECT * from fuskh;
 SELECT * from hkuhi;
 SELECT * from dmffh;
+SELECT * from kpvkp;
