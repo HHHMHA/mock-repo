@@ -11,3 +11,4 @@ SELECT * from hkuhi;
 SELECT * from dmffh;
 SELECT * from kpvkp;
 SELECT * from rqhij;
+SELECT * from ayyaq;
